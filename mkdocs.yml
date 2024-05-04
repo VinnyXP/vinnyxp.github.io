@@ -25,4 +25,19 @@ theme:
         name: Switch to light mode
 repo_url: https://github.com/VinnyXP/vinnyxp.github.io
 plugins:
-  - blog
+  - blog:
+      blog_dir: blog
+  - blog:
+      blog_dir: projects
+nav:
+  - Home:
+    - index.md
+  - Blog:
+    - blog/index.md
+  - Projects:
+    - projects/index.md
+  - History:
+    - history.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
