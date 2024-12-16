@@ -6,5 +6,4 @@ categories:
   - personal
 ---
 
-# Hello, World
-A little about me. Coming soon...
+# Spatial Computing: New Interactions But Not New Computing
