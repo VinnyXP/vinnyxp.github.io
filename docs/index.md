@@ -1,20 +1,18 @@
 # Home
 
 ## Welcome to my space 👋
-✦ I’m Vinny
+Hi, I'm Vinny from the Bay. 
 
-✦ I love to learn about history, play with new tech, and build things
+I like learning things, history, cooking, writing, designing, and cats.
 
-✦ I’m currently learning: XR development, electronics, probability, and tech history
+I’m a programmer by trade, working/exploring in domains that augment and elevate the human experience.
 
-✦ Interests: Artificial Intelligence, Cooking, Data Visualization, Extended Reality, Intelligence Augmentation, Hardware, History, and Writing
+This is my digital journal.
 
 ## Directory 📚
-[History](./history.md)
-- A compilation of event/achievements/academic/experiences that I want to share
 
 [Blog](./blog/index.md)
 - Articulating my thoughts on variety of subjects
 
 [Projects](./projects/index.md)
-- Showcasing my projects, including what I'm proud about or learned a lot from
+- Showcasing projects I’m proud of or learned a great deal from.
